@@ -1,16 +1,20 @@
-### Hi there 👋
+# Mon profil GitHub
 
-<!--
-**Maxime-Cllt/Maxime-Cllt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 3ème année de licence informatique.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Compétences</h2>
+
+<ul>
+<li>Développement web: HTML, CSS, JavaScript, PHP</li>
+<li>Langages de programmation: C/C++, Java, Python, Shell</li>
+<li>Bases de données: SQL</li>
+<li>Systèmes d'exploitation: Windows, MacOS, Linux (Ubuntu/Debian)</li>
+<li>Logiciels: Git/Github, Jetbrains, VSCode, Docker, Arduino, Oracle, JIRA</li>
+</ul>
+
+
+<h2>Formation</h2>
+
+Je souhaite me diriger vers un Master Informatique en alternance à la fin de ma licence.
+
