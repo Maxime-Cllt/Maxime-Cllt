@@ -18,3 +18,18 @@ Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 3ème an
 
 Je souhaite me diriger vers un Master Informatique en alternance à la fin de ma licence.
 
+<h2>Contact</h2>
+
+<h2>Lien LinkedIn</h2>
+<ul>
+<li>
+<a href="https://www.linkedin.com/in/maxime-colliat-6561a1235/">ICI</a>
+</li>
+<li>
+OU
+</li>
+</ul>
+
+<img src="https://github.com/Maxime-Cllt/Maxime-Cllt/blob/main/Lien_Linkedin.png" width="300" height="300"/>
+
+
