@@ -25,10 +25,11 @@ Je souhaite me diriger vers un Master Informatique en alternance à la fin de ma
 <li>
 <a href="https://www.linkedin.com/in/maxime-colliat-6561a1235/">ICI</a>
 </li>
-<li>
-OU
-</li>
 </ul>
+
+<h3>OU</h3>
+
+
 
 <img src="https://github.com/Maxime-Cllt/Maxime-Cllt/blob/main/Lien_Linkedin.png" width="300" height="300"/>
 
