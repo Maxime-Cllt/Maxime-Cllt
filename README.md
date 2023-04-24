@@ -1,6 +1,10 @@
 # Mon profil GitHub
 
 
+
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxime-Cllt&show_icons=true)
+
+
 Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 3ème année de licence informatique.
 
 <h2>Compétences</h2>
