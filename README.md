@@ -12,7 +12,7 @@ Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 3ème an
 <ul>
 <li>Développement web: HTML, CSS, JavaScript, PHP</li>
 <li>Langages de programmation: C/C++, Java, Python, Shell</li>
-<li>Bases de données: SQL</li>
+<li>Bases de données: MySql, PostgreSQL</li>
 <li>Systèmes d'exploitation: Windows, MacOS, Android, Linux (Ubuntu/Debian)</li>
 <li>Logiciels: Git/Github, Jetbrains, VSCode, Docker, Arduino, Oracle, JIRA</li>
 </ul>
@@ -20,7 +20,7 @@ Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 3ème an
 
 <h2>Formation</h2>
 
-Je souhaite me diriger vers un Master Informatique en alternance à la fin de ma licence.
+Je souhaite me diriger vers un Master Bases de données Intelligence Artificielle en alternance à la fin de ma licence.
 
 <h2>Contact</h2>
 
@@ -33,8 +33,4 @@ Je souhaite me diriger vers un Master Informatique en alternance à la fin de ma
 
 <h3>OU</h3>
 
-
-
 <img src="https://github.com/Maxime-Cllt/Maxime-Cllt/blob/main/Lien_Linkedin.png" width="300" height="300"/>
-
-
