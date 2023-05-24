@@ -33,4 +33,6 @@ Je souhaite me diriger vers un Master Bases de données Intelligence Artificiell
 
 <h3>OU</h3>
 
-<img src="https://github.com/Maxime-Cllt/Maxime-Cllt/blob/main/Lien_Linkedin.png" width="300" height="300"/>
+<p align="center">
+    <img src="https://github.com/Maxime-Cllt/Maxime-Cllt/blob/main/Lien_Linkedin.png" width="300" height="300"/>
+</p>
