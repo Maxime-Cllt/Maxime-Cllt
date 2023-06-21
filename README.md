@@ -1,6 +1,6 @@
 # Mon profil GitHub
 
-# 👦 About me
+# 👨‍🚀 About me
 
 Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 1ère année de Master Base de données et Intelligeance Artificielle.
 
