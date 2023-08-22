@@ -1,6 +1,6 @@
 # Mon profil GitHub
 
-# 👨‍🚀 About me
+# 👨‍💻 About me
 
 Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 1ère année de Master Base de données et Intelligence Artificielle.
 
@@ -74,7 +74,7 @@ Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 1ère an
 			<td align="center"><a href=""></a></td>
 		</tr>
 		<tr>
-			<td align="center"><a href=""></a></td>
+			<td align="center"><a href="https://flutter.dev/?gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVj6GGp7QQJJiPqw9etmF_KfbAhO3BzKNQ5Af7G1V3DaoxtcKYNab6gaAomsEALw_wcB&gclsrc=aw.ds">Flutter</a></td>
 			<td align="center"><a href=""></a></td>
 			<td align="center"><a href=""></a></td>
 			<td align="center"><a href=""></a></td>
