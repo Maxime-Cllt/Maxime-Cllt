@@ -91,10 +91,6 @@ Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 1ère an
 	<a href="https://www.linkedin.com/in/maxime-colliat-6561a1235/">
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>	
-	<span>&nbsp;</span>
-	<a href="mailto:mcolliat21@gmail.com">
-		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
 	<span>&nbsp;</span>	
 </p>
 
