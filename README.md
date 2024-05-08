@@ -2,16 +2,15 @@
 
 # 👨‍💻 About me
 
-Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 1ère année de Master Base de données et Intelligence Artificielle.
+Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 1ère année de Master Base de données et
+Intelligence Artificielle.
 
 # 📚 Compétences
-
 
 <table align="center">
 	<thead>
 		<tr>
 			<th colspan="1"><b>Software Development</b></th>
-			<th colspan="1"><b>Computer Graphics</b></th>
 			<th colspan="1"><b>Back/Front-end Web</b></th>
 			<th colspan="1"><b>OS</b></th>
 			<th colspan="1"><b>Database</b></th>
@@ -21,7 +20,6 @@ Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 1ère an
 	<tbody>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
-			<td align="center"><a href="https://www.opengl.org/">OpenGL</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
 			<td align="center"><a href="https://www.microsoft.com/fr-fr/windows">Windows</a></td>
             		<td align="center"><a href="https://www.postgresql.org/">PostgreSQL</a></td>
@@ -30,7 +28,6 @@ Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 1ère an
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
-			<td align="center"><a href="https://openjfx.io/">JavaFX</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
 			<td align="center"><a href="https://www.apple.com/fr/macos">MacOs</a></td>
 			<td align="center"><a href="https://www.mongodb.com/">MongoDB</a></td>
@@ -39,38 +36,34 @@ Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 1ère an
 		</tr>
 		<tr>
 			<td align="center"><a href="https://www.java.com/">Java</a></td>
-			<td align="center"><a href=""></a></td>
 			<td align="center"><a href="https://www.php.net/">PHP</a></td>
 			<td align="center"><a href="https://ubuntu.com/">Ubuntu</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/SQL">SQL</a></td>
+			<td align="center"><a href="https://mariadb.org/">MariaDB</a></td>
 			<td align="center"><a href="https://www.arduino.cc/">Arduino</a></td>
 			<td align="center"><a href=""></a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://cmake.org/">CMake</a></td>
-			<td align="center"><a href=""></a></td>
 			<td align="center"><a href="https://jquery.com/">jQuery</a></td>
 			<td align="center"><a href="https://www.debian.org/">Debian</a></td>
-			<td align="center"><a href=""></a></td>
-			<td align="center"><a href="https://code.visualstudio.com/">VSCode</a></td>
+            <td align="center"><a href="https://www.oracle.com/">Oracle</a></td>			
+            <td align="center"><a href="https://code.visualstudio.com/">VSCode</a></td>
 			<td align="center"><a href=""></a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://www.python.org/">Python</a></td>
-			<td align="center"><a href=""></a></td>
 			<td align="center"><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></td>
 			<td align="center"><a href="https://www.android.com/">Android</a></td>
-			<td align="center"><a href=""></a></td>
+			<td align="center"><a href="https://www.mysql.com/fr/">MySQL</a></td>
 			<td align="center"><a href="https://www.docker.com/">Docker</a></td>
 			<td align="center"><a href=""></a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://fr.wikipedia.org/wiki/Shell_Unix">Shell</a></td>
-			<td align="center"><a href=""></a></td>
 			<td align="center"><a href="https://threejs.org/">ThreeJS</a></td>
 			<td align="center"><a href=""></a></td>
 			<td align="center"><a href=""></a></td>
-			<td align="center"><a href="https://www.oracle.com/">Oracle</a></td>
+			<td align="center"><a href="https://www.atlassian.com/software/jira">JIRA</a></td>
 			<td align="center"><a href=""></a></td>
 		</tr>
 		<tr>
@@ -79,7 +72,6 @@ Bonjour, je suis Maxime et actuellement en étude à la fac de Dijon en 1ère an
 			<td align="center"><a href=""></a></td>
 			<td align="center"><a href=""></a></td>
 			<td align="center"><a href=""></a></td>
-			<td align="center"><a href="https://www.atlassian.com/software/jira">JIRA</a></td>
 			<td align="center"><a href=""></a></td>
 		</tr>
 	</tbody>
